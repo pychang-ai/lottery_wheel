@@ -1,0 +1,18 @@
+# IDE 和編輯器文件
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 系統文件
+.DS_Store
+Thumbs.db
+
+# 暫存文件
+*.log
+*.tmp
+*.temp
+
+# PHP 相關
+/vendor/
+composer.lock
