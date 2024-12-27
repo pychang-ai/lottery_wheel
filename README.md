@@ -31,7 +31,7 @@
 
 ## 開發者
 
-[你的名字/組織名稱]
+[Paul Chang](https://pychang-ai.github.io)
 
 ## 授權
 
