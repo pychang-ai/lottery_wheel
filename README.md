@@ -2,10 +2,7 @@
 
 一個簡單易用的網頁版抽獎轉盤系統，使用 HTML5 Canvas 製作。
 
-## DEMO
-
-[https://pychang-ai.github.io/lucky-wheel/](https://pychang-ai.github.io/lucky-wheel/)  
-https://github.com/pychang-ai/lottery_wheel/blob/main/images/demo.png
+## 操作書面
 
 <img src="https://github.com/pychang-ai/lottery_wheel/blob/main/images/demo.png" alt="Demo" width="800" height="600">
 
