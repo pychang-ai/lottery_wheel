@@ -5,9 +5,9 @@
 ## DEMO
 
 [https://pychang-ai.github.io/lucky-wheel/](https://pychang-ai.github.io/lucky-wheel/)  
+https://github.com/pychang-ai/lottery_wheel/blob/main/images/demo.png
 
-<img src="https://raw.githubusercontent.com/pychang-ai/lucky-wheel/master/images/demo.png"/>
-
+<img src="https://github.com/pychang-ai/lottery_wheel/blob/main/images/demo.png" alt="Demo" width="800" height="600">
 
 ## 功能特點
 
